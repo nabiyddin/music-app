@@ -1,0 +1,13 @@
+/** Bold */
+@font-face {
+  font-family: "SF_UI_Text";
+  font-weight: 700;
+  src: url("./SF_UI_Text/SFUIText-Bold.woff");
+}
+
+/** Heavy */
+@font-face {
+  font-family: "SF_UI_Text";
+  font-weight: 800;
+  src: url("./SF_UI_Text/SFUIText-Heavy.woff");
+}
